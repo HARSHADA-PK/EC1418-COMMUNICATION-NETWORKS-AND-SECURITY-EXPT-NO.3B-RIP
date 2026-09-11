@@ -11,6 +11,8 @@ To connect computers in multiple networks using Distance Vector Routing Protocol
 
 
 # NETWORK DIAGRAM:
+
+
 # PROCEDURE:
 
 STEP 1: Open a Packet Tracer Software.
